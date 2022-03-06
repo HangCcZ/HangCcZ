@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hang.
+👋 Hi, I’m Hang.
 - Currently seeking a Full Stack Developer position in which I can contribute to impactful and meaningful work. I'm actively learning AWS, Jamstack, UI/UX and GraphQL.
 
 <!---
